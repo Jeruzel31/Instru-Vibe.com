@@ -1,0 +1,88 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  .header h1{
+    padding: 10px 20px;
+    font-size: 200%;
+    font-family: fantasy;
+    font-style: inherit;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: khaki;
+    }
+    .content-wrapper {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 20px;
+  }
+  
+  .text-content {
+      flex: 1;
+      padding: 20px;
+      background-color: white;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      text-align: justify;
+  }
+  
+  
+  .text-content p {
+      font-size: 1em;
+      color: #666;
+      font-size: medium;
+      font-family: sans-serif;
+      font-style: inherit;
+  }
+  
+  .image-content {
+      flex: 1;
+      padding: 20px;
+      background-color: #f9f9f9;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      text-align: center;
+  }
+  
+  .image-content img {
+      width: 80%;
+      max-width: 300px;
+      height: auto;
+  }
+  
+  footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+  }
+  
+  /* Mobile Responsive Design */
+  @media (max-width: 768px) {
+      .content-wrapper {
+          flex-direction: column;
+      }
+  
+      .sidebar {
+          width: 100%;
+          margin-right: 0;
+      }
+  
+      .sidebar ul li {
+          text-align: center;
+      }
+  }
+
+  /* Hover effect on image */
+.image-link img {
+    transition: transform 0.3s ease, opacity 0.3s ease; /* Smooth transition for transform and opacity */
+}
+
+.image-link:hover img {
+    transform: scale(1.05); /* Slight zoom on hover */
+    opacity: 0.8; /* Slight transparency on hover */
+}

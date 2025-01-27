@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="lovecore style - b 1 (m).css">
+    <link rel="icon" type="image/x-icon" href="img/miscellanous/Logo.png">
+
+
+
+
+<div id="loading-screen">
+  <div class="spinner"></div> 
+  <p>Instru-Vibe</p> 
+</div>
+
+<body>
+
+    <div class="dropdown">
+        <button class="dropbtn"><b>Lo-vibe</b></button>
+        <div class="dropdown-content">
+            <a href="./index.html" >>>Home</a></li>
+            <a href="1 Guitar.html" class="fa fa-hand-pointer-o"> Guitar</a>
+            <a href="2 Flute.html" class="fa fa-hand-pointer-o"> Flute</a>
+            <a href="3 Violin.html" class="fa fa-hand-pointer-o"> Violin</a>
+            <a href="4 Savita Handpan.html" class="fa fa-hand-pointer-o">Handpan</a>
+            <a href="5 Piano.html" class="fa fa-hand-pointer-o"> Piano</a>
+            <a href="6 Saxophone.html" class="fa fa-hand-pointer-o"> Saxophone</a>
+            <a href="7 Trumpet.html" class="fa fa-hand-pointer-o"> Trumpet</a>
+            <a href="8 Ukulele.html" class="fa fa-hand-pointer-o"> Ukulele</a>
+        </div>
+    </div>
+
+    <div class="music-player-box">
+        <div class="player">
+            <div class="details">
+                <div class="now-playing">PLAYING x OF y</div>
+                <div class="track-art"></div>
+                <div class="track-name">Track Name</div>
+                <div class="track-artist">Track Artist</div>
+            <div class="buttons">
+                <div class="prev-track" onclick="prevTrack()">
+                    <i class="fa fa-step-backward fa-2x"></i>
+                </div>
+                <div class="playpause-track" onclick="togglePlayPause()">
+            <i class="fa fa-play-circle fa-5x play-button"></i>
+            <i class="fa fa-pause-circle fa-5x pause-button" style="display: none;"></i>
+                </div>
+                <div class="next-track" onclick="nextTrack()">
+                    <i class="fa fa-step-forward fa-2x"></i>
+                </div>
+                <div class="download-track" onclick="downloadTrack()"> 
+                    <i class="fa fa-download fa-2x"></i>
+                    <a href="./audio/Music/(bgsound) Love me.mp3" download="(bgsound) Love me.mp3"></a>
+                    <a href="./audio/Music/UNDERTALE nostalgic.ogg" download="UNDERTALE nostalgic.ogg"></a>
+                </div>
+            </div>
+        <div class="slider_container">
+            <div class="current-time">00:00</div>
+            <input type="range" min="1" max="100" value="0" class="seek_slider" onchange="seekTo()">
+            <div class="total-duration">00:00</div>
+        </div>
+        <div class="slider_container">
+            <i class="fa fa-volume-down"></i>
+            <input type="range" min="1" max="100" value="99" class="volume_slider" onchange="setVolume()">
+            <i class="fa fa-volume-up"></i>
+        </div>
+    </div>
+</div>
+
+    <script src="lovecore - 2 a.js"></script>
+</main>
+</body>
+  
+</html>

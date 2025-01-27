@@ -1,0 +1,168 @@
+.loader{
+    position:fixed ;
+    top: 0;
+    left: 0;
+    width: 100vh;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: whitesmoke;
+    transition: opacity 0.75s, visibility 1.2s;
+  }
+  
+  .loader-hidden {
+   opacity: 0;
+   visibility: hidden;
+  }
+  
+  .loader::after{
+    content: "";
+    width: 75px;
+    height: 75px;
+    border: 15px solid #dddd;
+    border-top-color: maroon;
+    border-radius: 50%;
+    animation: loading 0.75s ease infinite;
+  }
+  
+  @keyframes loading {
+    from{
+      transform: rotate(0turn);
+    }
+      to{
+        rotate: (1turn);
+      }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+  }
+  /* Styles for mobile view */
+  @media only screen and (max-width: 600px) {
+    header {
+      padding: 10px;
+    }
+  
+    .content {
+      margin: 10px;
+    }
+  
+    footer {
+      padding: 10px;
+    }
+  }
+  
+  
+  
+  
+  #portfolio{
+    padding: 100px 30px;
+  }
+  .work-list{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 200px;
+    margin-top: 10px;
+  }
+  .work{
+    border-radius: 100p;
+    position: relative;
+  }
+  .work img{
+    width: 120%;
+    height: 350px;
+    border-radius: 30% 50% 70% 30% / 30% 90% 30% 70%;
+    display: block;
+    transition: transform 0.5s;
+  }
+  .layer{
+    width: 120%;
+    height: 0%;
+    background: linear-gradient( rgba(0,0,0,0.6),khaki, brown);
+    border-radius: 30% 50% 70% 30%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 50px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    transition: height 0.8s;
+  }
+  .layer h3{
+    font-weight: 500;
+    margin-bottom: 20px;
+  }
+  .layer a{
+    margin-top: 20px;
+    color: #ff004f;
+    text-decoration: none;
+    font-size: 30px;
+    line-height: 60px;
+    background: #fff;
+    width: 90px;
+    height: 60px;
+    border-radius: 50%;
+    text-align: center;
+  }
+  .work:hover img{
+    transform: scale(1.1);
+  }
+  .work:hover .layer{
+    height: 120%;
+  }
+  p{
+    font-family: sans-serif;
+    font-style: inherit;
+  }
+  .btn{
+    display: block;
+    margin: 50px auto;
+    width: fit-content;
+    border: 1px solid #926372;
+    padding: 14px 50px;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #fff;
+    transition: background 0.5s;
+  }
+  .btn:hover{
+    background: #b3798b;
+  }
+  
+  .button{
+    margin: 50px;
+  }
