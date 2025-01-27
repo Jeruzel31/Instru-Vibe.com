@@ -43,6 +43,18 @@ let track_list = [
         artist: "Pachelbel",
         image: "img/Guitar/Canon.png",
         path: "audio/Guitar/Canon in D - Pachelbel (Fingerstyle Guitar Cover).mp3"
+    }, 
+    {
+        name: "Koh Igarashi - Moonlight (F.Sor)",
+        artist: "Koh Igarash",
+        image: "img/Guitar/Moon.png",
+        path: "audio/Guitar/Koh Igarashi - Moonlight (F.Sor).mp3"
+    },
+    {
+        name: "Quiet Place (Original)",
+        artist: "Marco Cirillo",
+        image: "img/Guitar/Quiet.png",
+        path: "audio/Guitar/Slow Acoustic Guitar Instrumental - Quiet Place (Original).mp3"
     },
 ];
 
