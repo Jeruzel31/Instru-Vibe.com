@@ -30,31 +30,31 @@ let track_list = [
         name: "Can't Help Falling In Love (Cover) Elvis Presley - Violin Cover - Tab Tutorial",
         artist: "Fiddling with my Whistle",
         image: "img/Violin/Whistle.png",
-        path: "audio/Violin/Can't Help Falling In Love (Cover) Elvis Presley - Violin Cover - Tab Tutorial.mp3"
+        path: "Violin/Can't Help Falling In Love (Cover) Elvis Presley - Violin Cover - Tab Tutorial.mp3"
     },
     {
         name: "Canon in D - Pachelbel - Violin - Play Along Tab Tutorial",
         artist: "Fiddling with my Whistle",
         image: "img/Violin/Whistle.png",
-        path: "audio/Violin/Canon in D - Pachelbel - Violin - Play Along Tab Tutorial.mp3"
+        path: "Violin/Canon in D - Pachelbel - Violin - Play Along Tab Tutorial.mp3"
     },
     {
         name: "Golden hour JVKE (Violin Cover)",
         artist: "ItsAMoney",
         image: "img/Violin/Golden.png",
-        path: "audio/Violin/Golden Hour - JVKE - Cinematic Violin Cover.mp3",
+        path: "Violin/Golden Hour - JVKE - Cinematic Violin Cover.mp3",
     },
     {
         name: "Until i found you Stephen Sanchez(Violin Cover)",
         artist: "ItsAMoney",
         image: "img/Violin/Until.png",
-        path: "audio/Violin/Until I Found You - Stephen Sanchez - Cover (Violin).mp3"
+        path: "Violin/Until I Found You - Stephen Sanchez - Cover (Violin).mp3"
     },
     {
         name: "Yiruma River flows in You (Violin Cover)",
         artist: "캣올린CatOlin",
         image: "img/Violin/River.png",
-        path: "audio/Violin/Yiruma - River Flows in You - Violin Cover.mp3"
+        path: "Violin/Yiruma - River Flows in You - Violin Cover.mp3"
     },
     
 ];
