@@ -30,13 +30,13 @@ let track_list = [
         name: "River flows in you",
         artist: "Yiruma",
         image: "img/Guitar/River.png",
-        path: "Guitar/Yiruma - River Flows in You - Fingerstyle Guitar Cover.mp3",
+        path: "/Guitar/Yiruma - River Flows in You - Fingerstyle Guitar Cover.mp3",
     },
     {
         name: "Kiss the Rain",
         artist: "Yiruma",
         image: "img/Guitar/Kiss.png",
-        path: "Guitar/Kiss The Rain guitar ( Yiruma ) Fingerstyle_ Easy tabs sheet.mp3"
+        path: "/Guitar/Kiss The Rain guitar ( Yiruma ) Fingerstyle_ Easy tabs sheet.mp3"
     },
     {
         name: "Canon in D (Fingerstyle Cover)",
