@@ -30,31 +30,31 @@ let track_list = [
         name: "Funk alto Sax solo",
         artist: "David Strong",
         image: "img/Saxophone/Funk.png",
-        path: "Saxophone/Funk Alto Sax Solo.mp3",
+        path: "audio/Saxophone/Funk Alto Sax Solo.mp3",
     },
     {
         name: "Nothing's Gonna Change My Love for You George Benson - saxophone cover",
         artist: "Goccuadau",
         image: "img/Saxophone/Nothing.png",
-        path: "Saxophone/Nothing's Gonna Change My Love for You  George Benson - saxophone cover.mp3"
+        path: "audio/Saxophone/Nothing's Gonna Change My Love for You  George Benson - saxophone cover.mp3"
     },
     {
         name: "What a Wonderful World (sax cover Graziatto)",
         artist: "Graziatto",
         image: "img/Saxophone/What.png",
-        path: "Saxophone/What a Wonderful World - Louis Armstrong (sax cover Graziatto).mp3"
+        path: "audio/Saxophone/What a Wonderful World - Louis Armstrong (sax cover Graziatto).mp3"
     },
     {
         name: "Jazz Track",
         artist: "Blue Trane",
         image: "img/Saxophone/Short.png",
-        path: "Saxophone/Short Saxophone Jazz Song.mp3"
+        path: "audio/Saxophone/Short Saxophone Jazz Song.mp3"
     },
     {
         name: "Tropical Saxophone Music Relaxing",
         artist: "Super 21TV",
         image: "img/Saxophone/Tropical.png",
-        path: "Saxophone/Tropical.mp3"
+        path: "audio/Saxophone/Tropical.mp3"
     },
 ];
 

@@ -24,7 +24,7 @@
   left: 0;
   width: 250px;
   height: 100vh;
-  background-color: #222222;
+  background-color: #58aacf;
   color: white;
   padding-top: 3%;
   display: flex;
@@ -50,7 +50,7 @@
   transition: 0.5;
 }
 .sidebar ul li a:hover {
-  background-color: gray;
+  background-color: rgb(50, 248, 255);
   transition: height 0.5;
 }
 .sidebar ul li a i {
@@ -60,7 +60,7 @@
 .header {
 margin-inline-start: auto;
 width:100%;
-background-color: #4b4a4a;
+background-color: #45caff;
 }
 .header h1 {
   padding: 10px 20px;
@@ -70,7 +70,7 @@ font-style: inherit;
 justify-content: center;
 align-items: center;
 text-align: center;
-color: #fff;
+color: #FFFFFF;
 
 }
 

@@ -30,32 +30,32 @@ let track_list = [
         name: "Another Love (Cover), Original Tom Odell",
         artist: "Ukulele Time",
         image: "img/ukulele/uke1.png",
-        path: "Ukulele/Another Love (Tom Odell) [Ukulele Fingerstyle] Play-Along with TABs PDF available.mp3"
+        path: "audio/Ukulele/Another Love (Tom Odell) [Ukulele Fingerstyle] Play-Along with TABs PDF available.mp3"
     },
      {
         name: "Boulevard of Broken Dreams (Cover), Original Green Day",
         artist: "Ukulele Time",
         image: "img/ukulele/uke1.png",
-        path: "Ukulele/Boulevard Of Broken Dreams (Green Day) [Ukulele Fingerstyle] Play-Along with TABs PDF available.mp3"
+        path: "audio/Ukulele/Boulevard Of Broken Dreams (Green Day) [Ukulele Fingerstyle] Play-Along with TABs PDF available.mp3"
     },
     {
         name: "In The Mood (Cover), Original Glenn Miller",
         artist: "Ukulele time",
         image: "img/ukulele/uke1.png",
-        path: "Ukulele/In The Mood (Glenn Miller) [Ukulele Fingerstyle] Play-Along with TABs PDF available.mp3"
+        path: "audio/Ukulele/In The Mood (Glenn Miller) [Ukulele Fingerstyle] Play-Along with TABs PDF available.mp3"
     },
     {
         name: "Im Not the Only One (Cover), Original Sam Smith",
         artist: "Ukulele Time",
         image: "img/ukulele/uke1.png",
-        path: "Ukulele/I'm Not The Only One (Sam Smith) [Ukulele Fingerstyle] Play-Along with TABs PDF available.mp3"
+        path: "audio/Ukulele/I'm Not The Only One (Sam Smith) [Ukulele Fingerstyle] Play-Along with TABs PDF available.mp3"
     },
     
     {
         name: "The Night We met (Cover), Original Lord Huron",
         artist: "Ukulele Time",
         image: "img/ukulele/uke1.png",
-        path: "Ukulele/The Night We Met (Lord Huron) [Ukulele Fingerstyle] Play-Along with TABs PDF available.mp3",
+        path: "audio/Ukulele/The Night We Met (Lord Huron) [Ukulele Fingerstyle] Play-Along with TABs PDF available.mp3",
     },
     
    

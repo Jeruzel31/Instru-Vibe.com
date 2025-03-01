@@ -30,31 +30,31 @@ let track_list = [
         name: "Apples and Airs",
         artist: "Neille williams",
         image: "img/Flute/Apple.png",
-        path: "Flute/Apples and Airs.mp3",
+        path: "audio/Flute/Apples and Airs.mp3",
     },
     {
         name: "Kuhlau fantasy for flute solo op. 38 D major",
         artist: "Elisabeth Wentland",
         image: "img/Flute/Fantasy.png",
-        path: "Flute/Elisabeth Wentland - Kuhlau fantasy for flute solo op. 38 D major.mp3"
+        path: "audio/Flute/Elisabeth Wentland - Kuhlau fantasy for flute solo op. 38 D major.mp3"
     },
     {
         name: "Fantasia for FLUTE SOLO",
         artist: "Flamenco",
         image: "img/Flute/Fantasia.png",
-        path: "Flute/Herman Beeftink - Fantasia for FLUTE SOLO - Flamenco (Sheet Music).mp3"
+        path: "audio/Flute/Herman Beeftink - Fantasia for FLUTE SOLO - Flamenco (Sheet Music).mp3"
     },
     {
         name: "Yiruma - Kiss the Rain (cover by Bevani flute)",
         artist: "Bevani Flute",
         image: "img/Flute/Kiss.png",
-        path: "Flute/Yiruma - Kiss the Rain (cover by Bevani flute).mp3"
+        path: "audio/Flute/Yiruma - Kiss the Rain (cover by Bevani flute).mp3"
     },
     {
         name: "Sia - Chandelier Flute Cover",
         artist: "InstrumentManiac",
         image: "img/Flute/Sia.png",
-        path: "Flute/Sia - Chandelier Flute Cover.mp3"
+        path: "audio/Flute/Sia - Chandelier Flute Cover.mp3"
     },
 ];
 

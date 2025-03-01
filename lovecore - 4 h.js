@@ -30,31 +30,31 @@ let track_list = [
         name: "Delusions (Cover)",
         artist: "Sunnisessionz",
         image: "img/Savita-Handpan/pan.png",
-        path: "Savita Handpans/10_year_old_Handpan_Prodigy_-_Sunnisessionz_plays_his_own_composition_Delusion_128kbps.mp3"
+        path: "audio/Savita Handpans/10_year_old_Handpan_Prodigy_-_Sunnisessionz_plays_his_own_composition_Delusion_128kbps.mp3"
     },
     {
         name: "C418 Cover",
         artist: "Aria Math",
         image: "img/Savita-Handpan/C418.png",
-        path: "Savita Handpans/C418_-_Aria_Math_Handpan_Cover_Atakan_Teoman_128kbps.mp3"
+        path: "audio/Savita Handpans/C418_-_Aria_Math_Handpan_Cover_Atakan_Teoman_128kbps.mp3"
     },
     {
         name: "The Name  of the Wind",
         artist: "Maxence Champy",
         image: "img/Savita-Handpan/windmax.png",
-        path: "Savita Handpans/Maxence_Champy_-_The_Name_of_the_Wind_Handpan_music_128kbps.mp3"
+        path: "audio/Savita Handpans/Maxence_Champy_-_The_Name_of_the_Wind_Handpan_music_128kbps.mp3"
     },
     {
         name: "Handpan in the Morning Forest | Nature Sounds",
         artist: "Iš Tylumos",
         image: "img/Savita-Handpan/Morning.png",
-        path: "Savita Handpans/Handpan in the morning forest  Nature Sounds.mp3"
+        path: "audio/Savita Handpans/Handpan in the morning forest  Nature Sounds.mp3"
     },
     {
         name: "Handpan in the Afternoon Sun | Nature Sounds",
         artist: "Iš Tylumos",
         image: "img/Savita-Handpan/Sun.png",
-        path: "Savita Handpans/Handpan in the afternoon Sun _ Nature Sounds [qR4lwyVwGXc].mp3"
+        path: "audio/Savita Handpans/Handpan in the afternoon Sun _ Nature Sounds [qR4lwyVwGXc].mp3"
     },
 ];
 

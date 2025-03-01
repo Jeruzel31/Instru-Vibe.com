@@ -30,31 +30,31 @@ let track_list = [
         name: "Nocturne in E-Flat Major, Op. 9, No. 2",
         artist: "Frédéric Chopin",
         image: "img/Piano/E.png",
-        path: "Piano/Frédéric Chopin_ Nocturne in E-Flat Major, Op. 9, No. 2.mp3",
+        path: "audio/Piano/Frédéric Chopin_ Nocturne in E-Flat Major, Op. 9, No. 2.mp3",
     },
     {
         name: "Gymnopédie No. 1",
         artist: "Erik Satie",
         image: "img/Piano/Erik.png",
-        path: "Piano/Gymnopédie No. 1.mp3"
+        path: "audio/Piano/Gymnopédie No. 1.mp3"
     },
     {
         name: "Howl's Moving Castle [OST - Theme Song]",
         artist: "Joe Hisaishi",
         image: "img/Piano/Ghibli.png",
-        path: "Piano/Howl's Moving Castle [OST - Theme Song].mp3"
+        path: "audio/Piano/Howl's Moving Castle [OST - Theme Song].mp3"
     },
     {
         name: "《River Flows In You》",
         artist: "抒情鋼琴 🎹Lyrical piano",
         image: "img/Piano/River.png",
-        path: "Piano/《River Flows In You》 [zQ-2GzNktt8].mp3"
+        path: "audio/Piano/《River Flows In You》 [zQ-2GzNktt8].mp3"
     },
     {
         name: "Canon in D - Johann Pachelbel",
         artist: " Jacob's Piano ",
         image: "img/Piano/Canon.png",
-        path: "Piano/Johann Pachelbel - Canon in D _ Jacob's Piano.mp3"
+        path: "audio/Piano/Johann Pachelbel - Canon in D _ Jacob's Piano.mp3"
     },
 ];
 

@@ -30,31 +30,31 @@ let track_list = [
         name: "Just the 2 of Us Cover",
         artist: "Mr. B",
         image: "img/trumpet/trumpet1.png",
-        path: "Trumpet/Just The Two Of Us (Trumpet Cover).mp3",
+        path: "audio/Trumpet/Just The Two Of Us (Trumpet Cover).mp3",
     },
     {
         name: "My Way Cover",
         artist: "Mr. B",
         image: "img/trumpet/trumpet2.png",
-        path: "Trumpet/My Way by Frank Sinatra (Trumpet Cover) [Esf5t7z1YgA].mp3"
+        path: "audio/Trumpet/My Way by Frank Sinatra (Trumpet Cover) [Esf5t7z1YgA].mp3"
     },
     {
         name: "What a Wonderful World Cover",
         artist: "Flamenco",
         image: "img/trumpet/trumpet3.png",
-        path: "Trumpet/_What a Wonderful World_ (Play with Me n.79) - Andrea Giuffredi trumpet [B-8kLo0CQPk].mp3"
+        path: "audio/Trumpet/_What a Wonderful World_ (Play with Me n.79) - Andrea Giuffredi trumpet [B-8kLo0CQPk].mp3"
     },
     {
         name: "Someone to Watch over Me",
         artist: "Philip Smith",
         image: "img/trumpet/trumpet5.png",
-        path: "Trumpet/Philip Smith--Someone to Watch Over Me--New York Legends.mp3"
+        path: "audio/Trumpet/Philip Smith--Someone to Watch Over Me--New York Legends.mp3"
     },
     {
         name: "Vocalize, Op. 34",
         artist: "Alison Balsom",
         image: "img/trumpet/trumpet4.png",
-        path: "Trumpet/ALISON BALSOM - Vocalise, Op.34 (S. Rachmaninoff).mp3"
+        path: "audio/Trumpet/ALISON BALSOM - Vocalise, Op.34 (S. Rachmaninoff).mp3"
     },
 ];
 
